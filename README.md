@@ -28,6 +28,14 @@ The prefix can be passed as an argument to the command-line interface.
 
 
 
+## Executable release
+
+Executables for 32bit and 64bit Windows installations can be found here:
+
+https://github.com/JVecsei/urldatetonote/releases
+
+
+
 ## Usage
 
 `urldatetonote -h`
@@ -36,7 +44,7 @@ The prefix can be passed as an argument to the command-line interface.
 
 `urldatetonote --prefix "last visited at" input.bib output.bib`
 
-The prefix is an optional argument at defaults to "last visited at".
+The prefix is an optional argument it defaults to "last visited at".
 
 
 
