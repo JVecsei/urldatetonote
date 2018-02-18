@@ -44,7 +44,7 @@ https://github.com/JVecsei/urldatetonote/releases
 
 `urldatetonote --prefix "last visited at" input.bib output.bib`
 
-The prefix is an optional argument it defaults to "last visited at".
+The prefix is an optional argument, it defaults to "last visited at".
 
 
 
